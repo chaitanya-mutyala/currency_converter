@@ -68,7 +68,7 @@ src/
 ---
 
 ## 📸 Screenshot
-![App Screenshot](./public/screenshot.png)
+![App Screenshot](./public/image.png)
 
 ---
 
