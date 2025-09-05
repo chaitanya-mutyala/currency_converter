@@ -3,7 +3,7 @@
 A simple and interactive currency converter built with **React (Vite)**, **TailwindCSS**, and a free currency API.  
 It allows users to convert between multiple world currencies in real time.
 
-🔗 **Live Demo:** [Currency Converter](https://currency-converter-d3sxwfa57-chaitanya-mutyalas-projects.vercel.app/)
+🔗 **Live Demo:** [Currency Converter](https://currency-converter-cjo2khbsg-chaitanya-mutyalas-projects.vercel.app/)
 
 ---
 
@@ -82,4 +82,4 @@ src/
 
 ## 👨‍💻 Author
 Built with ❤️ by **Chaitanya Mutyala**  
-🔗 [Live App](https://currency-converter-d3sxwfa57-chaitanya-mutyalas-projects.vercel.app/)
+🔗 [Live App](https://currency-converter-cjo2khbsg-chaitanya-mutyalas-projects.vercel.app/)
